@@ -25,7 +25,7 @@ A detailed explanation of the implementation can be found in `report.pdf`.
 
 ## Running
 
-Withon `python` installed simply run:
+With `python` installed simply run
 
 ```
 > python3 Proxy.py
